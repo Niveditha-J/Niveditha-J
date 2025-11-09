@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Nive  
+# 👋 Hey, I’m Niveditha
 🎓 4th Year Engineering Student @ RMK College of Engineering & Technology  
 💡 Aspiring Data Scientist | Full Stack Developer | Hackathon Enthusiast | Python & ML Explorer  
 
@@ -56,7 +56,7 @@ I spend my time experimenting with **AI/ML**, **web development**, and **problem
 
 ## 🌐 Connect with Me  
 
-- 📧 **Email:** niveditha.yourmail@example.com  
+- 📧 **Email:** nivecs095@rmkcet.ac.in  
 - 💼 **LinkedIn:** [linkedin.com/in/niveditha-j](https://linkedin.com/in/niveditha-j)  
 - 🧠 **GitHub:** [github.com/Niveditha-J](https://github.com/Niveditha-J)
 
