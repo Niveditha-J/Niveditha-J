@@ -15,7 +15,7 @@ I spend my time experimenting with **AI/ML**, **web development**, and **problem
 
 ---
 
-## 🧰 Tech Stack & Skills  
+##  Tech Stack & Skills  
 | Category | Skills |
 |-----------|---------|
 | **Programming Languages** | Python, Java |
@@ -27,7 +27,7 @@ I spend my time experimenting with **AI/ML**, **web development**, and **problem
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 | Project Name | Description | Tech Stack | Status |
 |---------------|-------------|-------------|--------|
@@ -41,7 +41,7 @@ I spend my time experimenting with **AI/ML**, **web development**, and **problem
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niveditha-J&bg_color=03203c&color=5da3fa&line=5da3fa&point=2827cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niveditha-J&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
@@ -54,7 +54,7 @@ I spend my time experimenting with **AI/ML**, **web development**, and **problem
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 - 📧 **Email:** nivecs095@rmkcet.ac.in  
 - 💼 **LinkedIn:** [linkedin.com/in/niveditha-j](https://linkedin.com/in/niveditha-j)  
