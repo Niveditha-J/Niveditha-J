@@ -32,12 +32,12 @@ I spend my time experimenting with **AI/ML**, **web development**, and **problem
 | Project Name | Description | Tech Stack | Status |
 |---------------|-------------|-------------|--------|
 | **Plant Intellect (Final Year Project)** | Smart plant health monitoring system using sensors + AI for detecting diseases and environmental issues | Python, OpenCV, ML, Streamlit | 🧩 In Progress |
-| **Emoji Generator** | Generates emojis dynamically based on text sentiment or user input | Python, NLP, Streamlit | ✅ Completed |
-| **Cryptocurrency Trade Bot** | Automated trading bot that uses ML algorithms to analyze crypto market trends | Python, Binance API, Pandas | ✅ Completed |
-| **Blog Generator using Streamlit** | AI-powered app that creates blog posts from prompts using NLP | Python, Streamlit, GPT API | ✅ Completed |
-| **Personal Portfolio Website** | Responsive web portfolio showcasing skills, projects, and achievements | HTML, CSS, JavaScript, React | ✅ Completed |
-| **Student Focus Tracker (NLP Tool)** | Analyzes placement readiness (aptitude, coding, HR) and provides chatbot-based feedback | Python, NLP | 🔜 Planned |
-| **College Bus Tracker App** | Tracks college bus location and alerts students when it’s near their stop | React, Node.js, Firebase | 🔜 Planned |
+| **Emoji Generator** | Generates emojis dynamically based on text sentiment or user input | Python, NLP, Streamlit | Completed |
+| **Cryptocurrency Trade Bot** | Automated trading bot that uses ML algorithms to analyze crypto market trends | Python, Binance API, Pandas | Completed |
+| **Blog Generator using Streamlit** | AI-powered app that creates blog posts from prompts using NLP | Python, Streamlit, GPT API |  Completed |
+| **Personal Portfolio Website** | Responsive web portfolio showcasing skills, projects, and achievements | HTML, CSS, JavaScript, React | Completed |
+| **Student Focus Tracker (NLP Tool)** | Analyzes placement readiness (aptitude, coding, HR) and provides chatbot-based feedback | Python, NLP | Planned |
+| **College Bus Tracker App** | Tracks college bus location and alerts students when it’s near their stop | React, Node.js, Firebase | Planned |
 
 ---
 
