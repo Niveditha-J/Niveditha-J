@@ -1,62 +1,42 @@
-# 👋 Hey, I’m Niveditha
-🎓 4th Year Engineering Student @ RMK College of Engineering & Technology  
-💡 Aspiring Data Scientist | Full Stack Developer | Hackathon Enthusiast | Python & ML Explorer  
+## 👋 Hey, I’m Nive  
 
----
+🎓 Computer Science Engineering Student @ RMK College of Engineering & Technology
+<img align="right" width="370" height="290"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfIBiwX2Ilmo3kAU7V49Dpc1jdHff4Nhx1g&s">
+- Here's my [protofolio][https://niveditha-j.github.io/website/]
+- I'm currently exploring DSA,Frontend Developement,AI & ML
+- I'm looking for collaborating for any technical projects,freelancing.
+- I'm looking for help in placements in any Startup or Product based company.
+- How to reach me:
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https="https://www.linkedin.com/in/niveditha-j-67663724b/")
+- People call me -Techie
+- [Youtube channel views](https://img.shields.io/youtube/channel/views/%40nivesworld5131)
 
-## About Me  
-I’m a final-year engineering student who loves blending **creativity and data** — from designing smart web apps to training models that actually *learn*.  
-I spend my time experimenting with **AI/ML**, **web development**, and **problem-solving**, mostly fueled by late-night coffee and stubborn curiosity.  
+### I code in
+<img width="50" height="50"src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/><img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/><img width="50" height="50" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/><img width="50" height="50" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/><img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/><img width="50" height="50" src="https://img.icons8.com/nolan/64/vue-js.png" alt="vue-js"/><img width="50" height="50" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 
-- Currently working on **Plant Intellect** — a smart plant health monitoring system (my final year project ).  
-- 🧠 Skilled in AI-driven systems, NLP, and LLM-based solutions (especially RAG).  
-- Passionate about hackathons and creating projects that make life simpler or at least more interesting.  
-- 🎯 Preparing for product-based company placements .  
+### Tools I use 
+<img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img width="50" height="50" src="https://img.icons8.com/material-sharp/24/github.png" alt="github"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/notion.png" alt="notion"/>
 
----
-
-##  Tech Stack & Skills  
-| Category | Skills |
-|-----------|---------|
-| **Programming Languages** | Python, Java |
-| **Web Development** | HTML, CSS, JavaScript, React, Node.js |
-| **Databases** | SQL, DBMS |
-| **Computer Science Fundamentals** | OOPs, Operating Systems, Computer Networks |
-| **AI & Data Science** | Machine Learning, NLP, LLMs (RAG, GPT API), OpenCV, Pandas, NumPy, Scikit-learn |
-| **Tools & Platforms** | Google Colab, Streamlit, Git/GitHub, VS Code|
-
----
-
-##  Featured Projects  
-
-| Project Name | Description | Tech Stack | Status |
-|---------------|-------------|-------------|--------|
-| **Plant Intellect (Final Year Project)** | Smart plant health monitoring system using sensors + AI for detecting diseases and environmental issues | Python, OpenCV, ML, Streamlit |  In Progress |
-| **Emoji Generator** | Generates emojis dynamically based on text sentiment or user input | Python, NLP, Streamlit | Completed |
-| **Cryptocurrency Trade Bot** | Automated trading bot that uses ML algorithms to analyze crypto market trends | Python, Binance API, Pandas | Completed |
-| **Blog Generator using Streamlit** | AI-powered app that creates blog posts from prompts using NLP | Python, Streamlit, GPT API |  Completed |
-| **Personal Portfolio Website** | Responsive web portfolio showcasing skills, projects, and achievements | HTML, CSS, JavaScript, React | Completed |
-| **Student Focus Tracker (NLP Tool)** | Analyzes placement readiness (aptitude, coding, HR) and provides chatbot-based feedback | Python, NLP | Planned |
-| **College Bus Tracker App** | Tracks college bus location and alerts students when it’s near their stop | React, Node.js, Firebase | Planned |
-
----
+### Coding Platforms
+![Niveditha's LeetCode Stats](https://leetcard.jacoblin.cool/NivedithaJ_05?theme=dark&font=Marcellus&ext=heatmap)
 
 ##  GitHub Stats  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niveditha-J&bg_color=03203c&color=5da3fa&line=5da3fa&point=2827cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niveditha-J&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![Niveditha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niveditha-J&bg_color=03203c&color=5da3fa&line=5da3fa&point=2827cc&area=true&hide_border=true)
 
----
----
 
-## Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/NivedithaJ_05?theme=light&font=Donegal%20One)
 
----
 
-## Connect with Me  
 
-- 📧 **Email:** nivecs095@rmkcet.ac.in  
+
+
+### 🌐 Connect with Me  
+
+- 📧 Email:[mail me](nivecs095@rmkcet.ac.in)
 - 💼 **LinkedIn:** [linkedin.com/in/niveditha-j](https://linkedin.com/in/niveditha-j)  
 - 🧠 **GitHub:** [github.com/Niveditha-J](https://github.com/Niveditha-J)
 
