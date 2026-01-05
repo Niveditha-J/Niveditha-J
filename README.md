@@ -8,8 +8,8 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfIBiwX2Ilmo3kAU7V49
 - I'm looking for collaborating for any technical projects,freelancing.
 - I'm looking for help in placements in any Startup or Product based company.
 - How to reach me:
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https="https://www.linkedin.com/in/niveditha-j-67663724b/")
-- People call me -Techie | Coding Gangaster | Crazy Developer | AI Agent
+<br />[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niveditha-j-67663724b/)
+- People call me -Techie | Coding Gangster | Crazy Developer | AI Agent
 
 
 ### I code in
